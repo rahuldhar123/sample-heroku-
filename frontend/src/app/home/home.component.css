@@ -49,10 +49,6 @@ footer {
 }
 
 .upload{
-  background-image: url('1.JPG');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   height: -webkit-fill-available;
 }
 .modelupload{
